@@ -1,0 +1,4 @@
+#lang racket
+; Define lambda functions
+; (define (f x y) (* y (+ x 2)))
+(define f (lambda (x y) (* y (+ x 2))))
