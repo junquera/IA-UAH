@@ -1,0 +1,6 @@
+[submodule "PECL0-IA"]
+	path = PECL0-IA
+	url = git@github.com:junquera/PECL0-IA.git
+[submodule "PECL1"]
+	path = PECL1
+	url = https://github.com/junquera/OrganizaHorarios-IA
